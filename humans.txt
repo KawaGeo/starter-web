@@ -3,11 +3,11 @@
 
 # TEAM
 
-	Geo massar --  robotic builder
+	Geo Massar --  robotic builder
 
 # THANKS
 
-    <name>
+    All my friends!
 
 # TECHNOLOGY COLOPHON
 
