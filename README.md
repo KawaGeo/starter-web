@@ -1,7 +1,8 @@
 # Starter Web Project
 
 This is a simple web project for showing how Git and GitHub work. 
-Add a linefor rebasing example.
+Add a line for rebasing example, 
+then more changes from myfeature too.
 
 ## Introduction
 
