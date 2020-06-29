@@ -18,4 +18,4 @@ Please fork this repository.
 
 ### Copyright
 
-Copyright 2020
+Copyright 2020 All rights reserved.
